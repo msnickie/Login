@@ -12,8 +12,8 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    /* background: #23242a; */
-    background-color: #45f3ff;
+    background: #23242a;
+    /* background-color: #45f3ff; */
 }
 .box
 {
